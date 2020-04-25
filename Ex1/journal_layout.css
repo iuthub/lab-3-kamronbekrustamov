@@ -1,0 +1,19 @@
+body{
+	border: 5px green solid;
+}
+
+.purple-border{
+	border: 5px purple solid;
+}
+
+.blue-border{
+	border: 5px blue solid;
+}
+
+#red-border{
+	border: 5px red solid;
+}
+
+#orange-border{
+	border: 5px orange solid;
+}

@@ -1,0 +1,30 @@
+html{
+	background-image: url("images/background.gif");
+
+}
+body{
+	border: 5px green solid;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.purple-border{
+	border: 5px purple solid;
+}
+
+.blue-border{
+	border: 5px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+#red-border{
+	border: 5px red solid;
+}
+
+#orange-border{
+	border: 5px orange solid;
+}
